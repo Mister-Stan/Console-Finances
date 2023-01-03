@@ -1,5 +1,7 @@
 # Console Finances
 
+## Website link: https://mister-stan.github.io/Console-Finances/
+
 ## ![my screenshot](./console-finances.png)
 
 ## https://mister-stan.github.io/Console-Finances/
@@ -12,4 +14,4 @@
 
 ## Credits https://skillsforlife.edx.org/
 
-## License MIT
+## License MIT ![GitHub](https://img.shields.io/github/license/mister-stan/console-finances)
